@@ -1,0 +1,130 @@
+[
+  {
+    "column": "export_26_fob_usd",
+    "indicator": "export_26_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_27_fob_usd",
+    "indicator": "export_27_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_72_fob_usd",
+    "indicator": "export_72_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_84_fob_usd",
+    "indicator": "export_84_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_26_fob_usd",
+    "indicator": "import_26_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_27_fob_usd",
+    "indicator": "import_27_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_72_fob_usd",
+    "indicator": "import_72_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_84_fob_usd",
+    "indicator": "import_84_fob_usd",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_26_kg",
+    "indicator": "export_26_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_27_kg",
+    "indicator": "export_27_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_72_kg",
+    "indicator": "export_72_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_84_kg",
+    "indicator": "export_84_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_26_kg",
+    "indicator": "import_26_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_27_kg",
+    "indicator": "import_27_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_72_kg",
+    "indicator": "import_72_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_84_kg",
+    "indicator": "import_84_kg",
+    "description": "Brazilian trade data: monthly_totals",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  }
+]

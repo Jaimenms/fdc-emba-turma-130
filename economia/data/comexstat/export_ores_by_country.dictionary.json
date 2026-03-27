@@ -1,0 +1,122 @@
+[
+  {
+    "column": "exp_26_Alemanha_fob",
+    "indicator": "exp_26_Alemanha_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Argentina_fob",
+    "indicator": "exp_26_Argentina_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Barein_fob",
+    "indicator": "exp_26_Barein_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_China_fob",
+    "indicator": "exp_26_China_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Coreia do Sul_fob",
+    "indicator": "exp_26_Coreia do Sul_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Egito_fob",
+    "indicator": "exp_26_Egito_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Espanha_fob",
+    "indicator": "exp_26_Espanha_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Filipinas_fob",
+    "indicator": "exp_26_Filipinas_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_França_fob",
+    "indicator": "exp_26_França_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Itália_fob",
+    "indicator": "exp_26_Itália_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Japão_fob",
+    "indicator": "exp_26_Japão_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Malásia_fob",
+    "indicator": "exp_26_Malásia_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Omã_fob",
+    "indicator": "exp_26_Omã_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Países Baixos (Holanda)_fob",
+    "indicator": "exp_26_Países Baixos (Holanda)_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "exp_26_Taiwan (Formosa)_fob",
+    "indicator": "exp_26_Taiwan (Formosa)_fob",
+    "description": "Brazilian trade data: export_ores_by_country",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  }
+]

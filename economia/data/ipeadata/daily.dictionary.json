@@ -1,0 +1,20 @@
+[
+  {
+    "column": "embi_brasil",
+    "indicator": "EMBI+ Brasil (Risco-País)",
+    "series_code": "JPM366_EMBI366",
+    "description": "Emerging Markets Bond Index Plus para o Brasil",
+    "source": "JP Morgan via IPEADATA",
+    "frequency": "daily",
+    "unit": "Pontos-base"
+  },
+  {
+    "column": "preco_petroleo_brent",
+    "indicator": "Preço do petróleo Brent",
+    "series_code": "EIA366_PBRENT366",
+    "description": "Crude oil, Brent, spot price (FOB)",
+    "source": "EIA via IPEADATA",
+    "frequency": "daily",
+    "unit": "US$/barril"
+  }
+]

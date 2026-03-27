@@ -1,0 +1,119 @@
+[
+  {
+    "column": "gold",
+    "indicator": "Ouro (Gold)",
+    "commodity": "Gold",
+    "description": "Gold futures price, COMEX",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/troy oz"
+  },
+  {
+    "column": "copper",
+    "indicator": "Cobre (Copper)",
+    "commodity": "Copper",
+    "description": "Copper futures price, COMEX",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/lb"
+  },
+  {
+    "column": "silver",
+    "indicator": "Prata (Silver)",
+    "commodity": "Silver",
+    "description": "Silver futures price, COMEX",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/troy oz"
+  },
+  {
+    "column": "aluminum",
+    "indicator": "Alumínio (Aluminum)",
+    "commodity": "Aluminum",
+    "description": "Aluminum futures price, LME",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "nickel",
+    "indicator": "Níquel (Nickel)",
+    "commodity": "Nickel",
+    "description": "Nickel futures price, LME",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "zinc",
+    "indicator": "Zinco (Zinc)",
+    "commodity": "Zinc",
+    "description": "Zinc futures price, LME",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "tin",
+    "indicator": "Estanho (Tin)",
+    "commodity": "Tin",
+    "description": "Tin futures price, LME",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "lead",
+    "indicator": "Chumbo (Lead)",
+    "commodity": "Lead",
+    "description": "Lead futures price, LME",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "platinum",
+    "indicator": "Platina (Platinum)",
+    "commodity": "Platinum",
+    "description": "Platinum futures price, NYMEX",
+    "source": "Investing.com via investpy",
+    "frequency": "daily",
+    "unit": "US$/troy oz"
+  },
+  {
+    "column": "iron_ore_62fe",
+    "indicator": "Minério de ferro finos 62% Fe CFR",
+    "commodity": "iron ore",
+    "description": "Iron ore fines 62% Fe CFR Futures (TIOc1, CME/SGX)",
+    "source": "Investing.com via investpy (search)",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "coal_newcastle",
+    "indicator": "Carvão Newcastle Futures",
+    "commodity": "coal",
+    "description": "Newcastle Coal Futures (ICE) - benchmark for thermal coal in Asia-Pacific",
+    "source": "Investing.com via investpy (search)",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "steel_hrc_china",
+    "indicator": "Aço HRC FOB China Futures",
+    "commodity": "steel",
+    "description": "Steel HRC (Hot-Rolled Coil) FOB China Futures (LME)",
+    "source": "Investing.com via investpy (search)",
+    "frequency": "daily",
+    "unit": "US$/ton"
+  },
+  {
+    "column": "uranium",
+    "indicator": "Urânio Futures",
+    "commodity": "uranium",
+    "description": "Uranium Futures (CME/UxC)",
+    "source": "Investing.com via investpy (search)",
+    "frequency": "daily",
+    "unit": "US$/lb"
+  }
+]

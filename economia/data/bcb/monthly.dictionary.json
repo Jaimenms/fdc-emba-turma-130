@@ -1,0 +1,38 @@
+[
+  {
+    "column": "igpm",
+    "indicator": "IGP-M - Variação mensal",
+    "series_code": 189,
+    "description": "Índice Geral de Preços - Mercado (variação % mensal)",
+    "source": "FGV via Banco Central do Brasil",
+    "frequency": "monthly",
+    "unit": "% mensal"
+  },
+  {
+    "column": "divida_liquida_pib",
+    "indicator": "Dívida líquida do setor público (% PIB)",
+    "series_code": 4513,
+    "description": "Dívida líquida do setor público consolidado como proporção do PIB",
+    "source": "Banco Central do Brasil",
+    "frequency": "monthly",
+    "unit": "% do PIB"
+  },
+  {
+    "column": "balanca_comercial",
+    "indicator": "Balança comercial - Saldo mensal",
+    "series_code": 22707,
+    "description": "Saldo da balança comercial (exportações - importações)",
+    "source": "Banco Central do Brasil",
+    "frequency": "monthly",
+    "unit": "US$ milhões"
+  },
+  {
+    "column": "ibc_br",
+    "indicator": "IBC-Br - Índice de Atividade Econômica",
+    "series_code": 24364,
+    "description": "Proxy mensal do PIB calculado pelo Banco Central",
+    "source": "Banco Central do Brasil",
+    "frequency": "monthly",
+    "unit": "Número-índice (2002=100, dessaz.)"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "column": "industry_gdp_pct__AUS",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - AUS",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__BRA",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - BRA",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__CAN",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - CAN",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__CHL",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - CHL",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__CHN",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - CHN",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__RUS",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - RUS",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__USA",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - USA",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "industry_gdp_pct__ZAF",
+    "indicator": "Industry (incl. construction), value added (% of GDP) - ZAF",
+    "wb_code": "NV.IND.TOTL.ZS",
+    "description": "Share of industry (including mining, manufacturing, construction) in GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__AUS",
+    "indicator": "Mineral rents (% of GDP) - AUS",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__BRA",
+    "indicator": "Mineral rents (% of GDP) - BRA",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__CAN",
+    "indicator": "Mineral rents (% of GDP) - CAN",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__CHL",
+    "indicator": "Mineral rents (% of GDP) - CHL",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__CHN",
+    "indicator": "Mineral rents (% of GDP) - CHN",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__RUS",
+    "indicator": "Mineral rents (% of GDP) - RUS",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__USA",
+    "indicator": "Mineral rents (% of GDP) - USA",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "mining_rents_pct_gdp__ZAF",
+    "indicator": "Mineral rents (% of GDP) - ZAF",
+    "wb_code": "NY.GDP.MINR.RT.ZS",
+    "description": "Difference between value of mineral production and total costs of production",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__AUS",
+    "indicator": "GDP growth (annual %) - AUS",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__BRA",
+    "indicator": "GDP growth (annual %) - BRA",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__CAN",
+    "indicator": "GDP growth (annual %) - CAN",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__CHL",
+    "indicator": "GDP growth (annual %) - CHL",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__CHN",
+    "indicator": "GDP growth (annual %) - CHN",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__RUS",
+    "indicator": "GDP growth (annual %) - RUS",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__USA",
+    "indicator": "GDP growth (annual %) - USA",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_growth__ZAF",
+    "indicator": "GDP growth (annual %) - ZAF",
+    "wb_code": "NY.GDP.MKTP.KD.ZG",
+    "description": "Annual percentage growth rate of GDP at constant prices",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__AUS",
+    "indicator": "GDP per capita (current US$) - AUS",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__BRA",
+    "indicator": "GDP per capita (current US$) - BRA",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__CAN",
+    "indicator": "GDP per capita (current US$) - CAN",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__CHL",
+    "indicator": "GDP per capita (current US$) - CHL",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__CHN",
+    "indicator": "GDP per capita (current US$) - CHN",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__RUS",
+    "indicator": "GDP per capita (current US$) - RUS",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__USA",
+    "indicator": "GDP per capita (current US$) - USA",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gdp_per_capita__ZAF",
+    "indicator": "GDP per capita (current US$) - ZAF",
+    "wb_code": "NY.GDP.PCAP.CD",
+    "description": "Gross domestic product divided by midyear population",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__AUS",
+    "indicator": "Exports of goods and services (% of GDP) - AUS",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__BRA",
+    "indicator": "Exports of goods and services (% of GDP) - BRA",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__CAN",
+    "indicator": "Exports of goods and services (% of GDP) - CAN",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__CHL",
+    "indicator": "Exports of goods and services (% of GDP) - CHL",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__CHN",
+    "indicator": "Exports of goods and services (% of GDP) - CHN",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__RUS",
+    "indicator": "Exports of goods and services (% of GDP) - RUS",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__USA",
+    "indicator": "Exports of goods and services (% of GDP) - USA",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "exports_goods_services_pct_gdp__ZAF",
+    "indicator": "Exports of goods and services (% of GDP) - ZAF",
+    "wb_code": "NE.EXP.GNFS.ZS",
+    "description": "Value of all goods and services exported as share of GDP",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__AUS",
+    "indicator": "Ores and metals exports (% of merchandise exports) - AUS",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__BRA",
+    "indicator": "Ores and metals exports (% of merchandise exports) - BRA",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__CAN",
+    "indicator": "Ores and metals exports (% of merchandise exports) - CAN",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__CHL",
+    "indicator": "Ores and metals exports (% of merchandise exports) - CHL",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__CHN",
+    "indicator": "Ores and metals exports (% of merchandise exports) - CHN",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__RUS",
+    "indicator": "Ores and metals exports (% of merchandise exports) - RUS",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__USA",
+    "indicator": "Ores and metals exports (% of merchandise exports) - USA",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "ore_metals_exports_pct__ZAF",
+    "indicator": "Ores and metals exports (% of merchandise exports) - ZAF",
+    "wb_code": "TX.VAL.MMTL.ZS.UN",
+    "description": "Share of ores and metals in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__AUS",
+    "indicator": "Fuel exports (% of merchandise exports) - AUS",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__BRA",
+    "indicator": "Fuel exports (% of merchandise exports) - BRA",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__CAN",
+    "indicator": "Fuel exports (% of merchandise exports) - CAN",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__CHL",
+    "indicator": "Fuel exports (% of merchandise exports) - CHL",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__CHN",
+    "indicator": "Fuel exports (% of merchandise exports) - CHN",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__RUS",
+    "indicator": "Fuel exports (% of merchandise exports) - RUS",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__USA",
+    "indicator": "Fuel exports (% of merchandise exports) - USA",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "fuel_exports_pct__ZAF",
+    "indicator": "Fuel exports (% of merchandise exports) - ZAF",
+    "wb_code": "TX.VAL.FUEL.ZS.UN",
+    "description": "Share of fuel in total merchandise exports",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__AUS",
+    "indicator": "Gross fixed capital formation (% of GDP) - AUS",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__BRA",
+    "indicator": "Gross fixed capital formation (% of GDP) - BRA",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__CAN",
+    "indicator": "Gross fixed capital formation (% of GDP) - CAN",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__CHL",
+    "indicator": "Gross fixed capital formation (% of GDP) - CHL",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__CHN",
+    "indicator": "Gross fixed capital formation (% of GDP) - CHN",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__RUS",
+    "indicator": "Gross fixed capital formation (% of GDP) - RUS",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__USA",
+    "indicator": "Gross fixed capital formation (% of GDP) - USA",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "gfcf_pct_gdp__ZAF",
+    "indicator": "Gross fixed capital formation (% of GDP) - ZAF",
+    "wb_code": "NE.GDI.FTOT.ZS",
+    "description": "Investment in fixed assets as share of GDP (proxy for engineering/construction intensity)",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__AUS",
+    "indicator": "Inflation, consumer prices (annual %) - AUS",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__BRA",
+    "indicator": "Inflation, consumer prices (annual %) - BRA",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__CAN",
+    "indicator": "Inflation, consumer prices (annual %) - CAN",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__CHL",
+    "indicator": "Inflation, consumer prices (annual %) - CHL",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__CHN",
+    "indicator": "Inflation, consumer prices (annual %) - CHN",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__RUS",
+    "indicator": "Inflation, consumer prices (annual %) - RUS",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__USA",
+    "indicator": "Inflation, consumer prices (annual %) - USA",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "inflation_cpi__ZAF",
+    "indicator": "Inflation, consumer prices (annual %) - ZAF",
+    "wb_code": "FP.CPI.TOTL.ZG",
+    "description": "Annual percentage change in consumer price index",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__AUS",
+    "indicator": "Unemployment, total (% of labor force) - AUS",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__BRA",
+    "indicator": "Unemployment, total (% of labor force) - BRA",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__CAN",
+    "indicator": "Unemployment, total (% of labor force) - CAN",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__CHL",
+    "indicator": "Unemployment, total (% of labor force) - CHL",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__CHN",
+    "indicator": "Unemployment, total (% of labor force) - CHN",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__RUS",
+    "indicator": "Unemployment, total (% of labor force) - RUS",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__USA",
+    "indicator": "Unemployment, total (% of labor force) - USA",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "unemployment__ZAF",
+    "indicator": "Unemployment, total (% of labor force) - ZAF",
+    "wb_code": "SL.UEM.TOTL.ZS",
+    "description": "Share of labor force that is without work but seeking employment",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__AUS",
+    "indicator": "Total natural resources rents (% of GDP) - AUS",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__BRA",
+    "indicator": "Total natural resources rents (% of GDP) - BRA",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__CAN",
+    "indicator": "Total natural resources rents (% of GDP) - CAN",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__CHL",
+    "indicator": "Total natural resources rents (% of GDP) - CHL",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__CHN",
+    "indicator": "Total natural resources rents (% of GDP) - CHN",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__RUS",
+    "indicator": "Total natural resources rents (% of GDP) - RUS",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__USA",
+    "indicator": "Total natural resources rents (% of GDP) - USA",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  },
+  {
+    "column": "total_natural_resources_rents__ZAF",
+    "indicator": "Total natural resources rents (% of GDP) - ZAF",
+    "wb_code": "NY.GDP.TOTL.RT.ZS",
+    "description": "Sum of oil, gas, coal, mineral, and forest rents",
+    "source": "World Bank - WDI",
+    "frequency": "annual",
+    "unit": "See indicator name"
+  }
+]

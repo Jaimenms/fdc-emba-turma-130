@@ -1,0 +1,4882 @@
+[
+  {
+    "column": "export_2601_fob_usd",
+    "indicator": "export_2601_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2602_fob_usd",
+    "indicator": "export_2602_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2603_fob_usd",
+    "indicator": "export_2603_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2604_fob_usd",
+    "indicator": "export_2604_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2605_fob_usd",
+    "indicator": "export_2605_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2606_fob_usd",
+    "indicator": "export_2606_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2607_fob_usd",
+    "indicator": "export_2607_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2608_fob_usd",
+    "indicator": "export_2608_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2609_fob_usd",
+    "indicator": "export_2609_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2610_fob_usd",
+    "indicator": "export_2610_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2611_fob_usd",
+    "indicator": "export_2611_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2613_fob_usd",
+    "indicator": "export_2613_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2614_fob_usd",
+    "indicator": "export_2614_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2615_fob_usd",
+    "indicator": "export_2615_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2616_fob_usd",
+    "indicator": "export_2616_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2617_fob_usd",
+    "indicator": "export_2617_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2618_fob_usd",
+    "indicator": "export_2618_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2619_fob_usd",
+    "indicator": "export_2619_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2620_fob_usd",
+    "indicator": "export_2620_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2621_fob_usd",
+    "indicator": "export_2621_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2701_fob_usd",
+    "indicator": "export_2701_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2702_fob_usd",
+    "indicator": "export_2702_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2703_fob_usd",
+    "indicator": "export_2703_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2704_fob_usd",
+    "indicator": "export_2704_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2705_fob_usd",
+    "indicator": "export_2705_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2706_fob_usd",
+    "indicator": "export_2706_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2707_fob_usd",
+    "indicator": "export_2707_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2708_fob_usd",
+    "indicator": "export_2708_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2709_fob_usd",
+    "indicator": "export_2709_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2710_fob_usd",
+    "indicator": "export_2710_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2711_fob_usd",
+    "indicator": "export_2711_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2712_fob_usd",
+    "indicator": "export_2712_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2713_fob_usd",
+    "indicator": "export_2713_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2714_fob_usd",
+    "indicator": "export_2714_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2715_fob_usd",
+    "indicator": "export_2715_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2716_fob_usd",
+    "indicator": "export_2716_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7201_fob_usd",
+    "indicator": "export_7201_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7202_fob_usd",
+    "indicator": "export_7202_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7203_fob_usd",
+    "indicator": "export_7203_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7204_fob_usd",
+    "indicator": "export_7204_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7205_fob_usd",
+    "indicator": "export_7205_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7206_fob_usd",
+    "indicator": "export_7206_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7207_fob_usd",
+    "indicator": "export_7207_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7208_fob_usd",
+    "indicator": "export_7208_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7209_fob_usd",
+    "indicator": "export_7209_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7210_fob_usd",
+    "indicator": "export_7210_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7211_fob_usd",
+    "indicator": "export_7211_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7212_fob_usd",
+    "indicator": "export_7212_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7213_fob_usd",
+    "indicator": "export_7213_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7214_fob_usd",
+    "indicator": "export_7214_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7215_fob_usd",
+    "indicator": "export_7215_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7216_fob_usd",
+    "indicator": "export_7216_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7217_fob_usd",
+    "indicator": "export_7217_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7218_fob_usd",
+    "indicator": "export_7218_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7219_fob_usd",
+    "indicator": "export_7219_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7220_fob_usd",
+    "indicator": "export_7220_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7221_fob_usd",
+    "indicator": "export_7221_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7222_fob_usd",
+    "indicator": "export_7222_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7223_fob_usd",
+    "indicator": "export_7223_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7224_fob_usd",
+    "indicator": "export_7224_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7225_fob_usd",
+    "indicator": "export_7225_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7226_fob_usd",
+    "indicator": "export_7226_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7227_fob_usd",
+    "indicator": "export_7227_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7228_fob_usd",
+    "indicator": "export_7228_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_7229_fob_usd",
+    "indicator": "export_7229_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8401_fob_usd",
+    "indicator": "export_8401_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8402_fob_usd",
+    "indicator": "export_8402_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8403_fob_usd",
+    "indicator": "export_8403_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8404_fob_usd",
+    "indicator": "export_8404_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8405_fob_usd",
+    "indicator": "export_8405_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8406_fob_usd",
+    "indicator": "export_8406_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8407_fob_usd",
+    "indicator": "export_8407_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8408_fob_usd",
+    "indicator": "export_8408_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8409_fob_usd",
+    "indicator": "export_8409_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8410_fob_usd",
+    "indicator": "export_8410_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8411_fob_usd",
+    "indicator": "export_8411_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8412_fob_usd",
+    "indicator": "export_8412_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8413_fob_usd",
+    "indicator": "export_8413_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8414_fob_usd",
+    "indicator": "export_8414_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8415_fob_usd",
+    "indicator": "export_8415_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8416_fob_usd",
+    "indicator": "export_8416_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8417_fob_usd",
+    "indicator": "export_8417_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8418_fob_usd",
+    "indicator": "export_8418_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8419_fob_usd",
+    "indicator": "export_8419_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8420_fob_usd",
+    "indicator": "export_8420_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8421_fob_usd",
+    "indicator": "export_8421_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8422_fob_usd",
+    "indicator": "export_8422_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8423_fob_usd",
+    "indicator": "export_8423_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8424_fob_usd",
+    "indicator": "export_8424_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8425_fob_usd",
+    "indicator": "export_8425_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8426_fob_usd",
+    "indicator": "export_8426_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8427_fob_usd",
+    "indicator": "export_8427_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8428_fob_usd",
+    "indicator": "export_8428_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8429_fob_usd",
+    "indicator": "export_8429_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8430_fob_usd",
+    "indicator": "export_8430_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8431_fob_usd",
+    "indicator": "export_8431_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8432_fob_usd",
+    "indicator": "export_8432_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8433_fob_usd",
+    "indicator": "export_8433_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8434_fob_usd",
+    "indicator": "export_8434_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8435_fob_usd",
+    "indicator": "export_8435_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8436_fob_usd",
+    "indicator": "export_8436_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8437_fob_usd",
+    "indicator": "export_8437_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8438_fob_usd",
+    "indicator": "export_8438_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8439_fob_usd",
+    "indicator": "export_8439_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8440_fob_usd",
+    "indicator": "export_8440_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8441_fob_usd",
+    "indicator": "export_8441_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8442_fob_usd",
+    "indicator": "export_8442_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8443_fob_usd",
+    "indicator": "export_8443_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8444_fob_usd",
+    "indicator": "export_8444_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8445_fob_usd",
+    "indicator": "export_8445_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8446_fob_usd",
+    "indicator": "export_8446_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8447_fob_usd",
+    "indicator": "export_8447_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8448_fob_usd",
+    "indicator": "export_8448_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8449_fob_usd",
+    "indicator": "export_8449_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8450_fob_usd",
+    "indicator": "export_8450_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8451_fob_usd",
+    "indicator": "export_8451_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8452_fob_usd",
+    "indicator": "export_8452_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8453_fob_usd",
+    "indicator": "export_8453_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8454_fob_usd",
+    "indicator": "export_8454_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8455_fob_usd",
+    "indicator": "export_8455_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8456_fob_usd",
+    "indicator": "export_8456_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8457_fob_usd",
+    "indicator": "export_8457_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8458_fob_usd",
+    "indicator": "export_8458_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8459_fob_usd",
+    "indicator": "export_8459_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8460_fob_usd",
+    "indicator": "export_8460_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8461_fob_usd",
+    "indicator": "export_8461_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8462_fob_usd",
+    "indicator": "export_8462_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8463_fob_usd",
+    "indicator": "export_8463_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8464_fob_usd",
+    "indicator": "export_8464_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8465_fob_usd",
+    "indicator": "export_8465_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8466_fob_usd",
+    "indicator": "export_8466_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8467_fob_usd",
+    "indicator": "export_8467_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8468_fob_usd",
+    "indicator": "export_8468_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8469_fob_usd",
+    "indicator": "export_8469_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8470_fob_usd",
+    "indicator": "export_8470_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8471_fob_usd",
+    "indicator": "export_8471_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8472_fob_usd",
+    "indicator": "export_8472_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8473_fob_usd",
+    "indicator": "export_8473_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8474_fob_usd",
+    "indicator": "export_8474_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8475_fob_usd",
+    "indicator": "export_8475_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8476_fob_usd",
+    "indicator": "export_8476_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8477_fob_usd",
+    "indicator": "export_8477_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8478_fob_usd",
+    "indicator": "export_8478_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8479_fob_usd",
+    "indicator": "export_8479_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8480_fob_usd",
+    "indicator": "export_8480_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8481_fob_usd",
+    "indicator": "export_8481_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8482_fob_usd",
+    "indicator": "export_8482_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8483_fob_usd",
+    "indicator": "export_8483_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8484_fob_usd",
+    "indicator": "export_8484_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8485_fob_usd",
+    "indicator": "export_8485_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8486_fob_usd",
+    "indicator": "export_8486_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_8487_fob_usd",
+    "indicator": "export_8487_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2601_fob_usd",
+    "indicator": "import_2601_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2602_fob_usd",
+    "indicator": "import_2602_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2603_fob_usd",
+    "indicator": "import_2603_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2604_fob_usd",
+    "indicator": "import_2604_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2605_fob_usd",
+    "indicator": "import_2605_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2606_fob_usd",
+    "indicator": "import_2606_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2607_fob_usd",
+    "indicator": "import_2607_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2608_fob_usd",
+    "indicator": "import_2608_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2609_fob_usd",
+    "indicator": "import_2609_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2610_fob_usd",
+    "indicator": "import_2610_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2611_fob_usd",
+    "indicator": "import_2611_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2612_fob_usd",
+    "indicator": "import_2612_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2613_fob_usd",
+    "indicator": "import_2613_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2614_fob_usd",
+    "indicator": "import_2614_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2615_fob_usd",
+    "indicator": "import_2615_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2616_fob_usd",
+    "indicator": "import_2616_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2617_fob_usd",
+    "indicator": "import_2617_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2618_fob_usd",
+    "indicator": "import_2618_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2619_fob_usd",
+    "indicator": "import_2619_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2620_fob_usd",
+    "indicator": "import_2620_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2621_fob_usd",
+    "indicator": "import_2621_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2701_fob_usd",
+    "indicator": "import_2701_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2702_fob_usd",
+    "indicator": "import_2702_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2703_fob_usd",
+    "indicator": "import_2703_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2704_fob_usd",
+    "indicator": "import_2704_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2705_fob_usd",
+    "indicator": "import_2705_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2706_fob_usd",
+    "indicator": "import_2706_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2707_fob_usd",
+    "indicator": "import_2707_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2708_fob_usd",
+    "indicator": "import_2708_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2709_fob_usd",
+    "indicator": "import_2709_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2710_fob_usd",
+    "indicator": "import_2710_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2711_fob_usd",
+    "indicator": "import_2711_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2712_fob_usd",
+    "indicator": "import_2712_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2713_fob_usd",
+    "indicator": "import_2713_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2714_fob_usd",
+    "indicator": "import_2714_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2715_fob_usd",
+    "indicator": "import_2715_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_2716_fob_usd",
+    "indicator": "import_2716_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7201_fob_usd",
+    "indicator": "import_7201_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7202_fob_usd",
+    "indicator": "import_7202_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7203_fob_usd",
+    "indicator": "import_7203_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7204_fob_usd",
+    "indicator": "import_7204_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7205_fob_usd",
+    "indicator": "import_7205_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7206_fob_usd",
+    "indicator": "import_7206_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7207_fob_usd",
+    "indicator": "import_7207_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7208_fob_usd",
+    "indicator": "import_7208_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7209_fob_usd",
+    "indicator": "import_7209_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7210_fob_usd",
+    "indicator": "import_7210_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7211_fob_usd",
+    "indicator": "import_7211_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7212_fob_usd",
+    "indicator": "import_7212_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7213_fob_usd",
+    "indicator": "import_7213_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7214_fob_usd",
+    "indicator": "import_7214_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7215_fob_usd",
+    "indicator": "import_7215_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7216_fob_usd",
+    "indicator": "import_7216_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7217_fob_usd",
+    "indicator": "import_7217_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7218_fob_usd",
+    "indicator": "import_7218_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7219_fob_usd",
+    "indicator": "import_7219_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7220_fob_usd",
+    "indicator": "import_7220_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7221_fob_usd",
+    "indicator": "import_7221_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7222_fob_usd",
+    "indicator": "import_7222_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7223_fob_usd",
+    "indicator": "import_7223_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7224_fob_usd",
+    "indicator": "import_7224_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7225_fob_usd",
+    "indicator": "import_7225_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7226_fob_usd",
+    "indicator": "import_7226_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7227_fob_usd",
+    "indicator": "import_7227_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7228_fob_usd",
+    "indicator": "import_7228_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_7229_fob_usd",
+    "indicator": "import_7229_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8401_fob_usd",
+    "indicator": "import_8401_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8402_fob_usd",
+    "indicator": "import_8402_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8403_fob_usd",
+    "indicator": "import_8403_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8404_fob_usd",
+    "indicator": "import_8404_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8405_fob_usd",
+    "indicator": "import_8405_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8406_fob_usd",
+    "indicator": "import_8406_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8407_fob_usd",
+    "indicator": "import_8407_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8408_fob_usd",
+    "indicator": "import_8408_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8409_fob_usd",
+    "indicator": "import_8409_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8410_fob_usd",
+    "indicator": "import_8410_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8411_fob_usd",
+    "indicator": "import_8411_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8412_fob_usd",
+    "indicator": "import_8412_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8413_fob_usd",
+    "indicator": "import_8413_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8414_fob_usd",
+    "indicator": "import_8414_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8415_fob_usd",
+    "indicator": "import_8415_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8416_fob_usd",
+    "indicator": "import_8416_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8417_fob_usd",
+    "indicator": "import_8417_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8418_fob_usd",
+    "indicator": "import_8418_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8419_fob_usd",
+    "indicator": "import_8419_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8420_fob_usd",
+    "indicator": "import_8420_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8421_fob_usd",
+    "indicator": "import_8421_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8422_fob_usd",
+    "indicator": "import_8422_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8423_fob_usd",
+    "indicator": "import_8423_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8424_fob_usd",
+    "indicator": "import_8424_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8425_fob_usd",
+    "indicator": "import_8425_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8426_fob_usd",
+    "indicator": "import_8426_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8427_fob_usd",
+    "indicator": "import_8427_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8428_fob_usd",
+    "indicator": "import_8428_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8429_fob_usd",
+    "indicator": "import_8429_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8430_fob_usd",
+    "indicator": "import_8430_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8431_fob_usd",
+    "indicator": "import_8431_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8432_fob_usd",
+    "indicator": "import_8432_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8433_fob_usd",
+    "indicator": "import_8433_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8434_fob_usd",
+    "indicator": "import_8434_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8435_fob_usd",
+    "indicator": "import_8435_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8436_fob_usd",
+    "indicator": "import_8436_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8437_fob_usd",
+    "indicator": "import_8437_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8438_fob_usd",
+    "indicator": "import_8438_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8439_fob_usd",
+    "indicator": "import_8439_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8440_fob_usd",
+    "indicator": "import_8440_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8441_fob_usd",
+    "indicator": "import_8441_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8442_fob_usd",
+    "indicator": "import_8442_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8443_fob_usd",
+    "indicator": "import_8443_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8444_fob_usd",
+    "indicator": "import_8444_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8445_fob_usd",
+    "indicator": "import_8445_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8446_fob_usd",
+    "indicator": "import_8446_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8447_fob_usd",
+    "indicator": "import_8447_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8448_fob_usd",
+    "indicator": "import_8448_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8449_fob_usd",
+    "indicator": "import_8449_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8450_fob_usd",
+    "indicator": "import_8450_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8451_fob_usd",
+    "indicator": "import_8451_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8452_fob_usd",
+    "indicator": "import_8452_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8453_fob_usd",
+    "indicator": "import_8453_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8454_fob_usd",
+    "indicator": "import_8454_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8455_fob_usd",
+    "indicator": "import_8455_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8456_fob_usd",
+    "indicator": "import_8456_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8457_fob_usd",
+    "indicator": "import_8457_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8458_fob_usd",
+    "indicator": "import_8458_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8459_fob_usd",
+    "indicator": "import_8459_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8460_fob_usd",
+    "indicator": "import_8460_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8461_fob_usd",
+    "indicator": "import_8461_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8462_fob_usd",
+    "indicator": "import_8462_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8463_fob_usd",
+    "indicator": "import_8463_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8464_fob_usd",
+    "indicator": "import_8464_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8465_fob_usd",
+    "indicator": "import_8465_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8466_fob_usd",
+    "indicator": "import_8466_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8467_fob_usd",
+    "indicator": "import_8467_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8468_fob_usd",
+    "indicator": "import_8468_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8469_fob_usd",
+    "indicator": "import_8469_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8470_fob_usd",
+    "indicator": "import_8470_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8471_fob_usd",
+    "indicator": "import_8471_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8472_fob_usd",
+    "indicator": "import_8472_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8473_fob_usd",
+    "indicator": "import_8473_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8474_fob_usd",
+    "indicator": "import_8474_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8475_fob_usd",
+    "indicator": "import_8475_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8476_fob_usd",
+    "indicator": "import_8476_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8477_fob_usd",
+    "indicator": "import_8477_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8478_fob_usd",
+    "indicator": "import_8478_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8479_fob_usd",
+    "indicator": "import_8479_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8480_fob_usd",
+    "indicator": "import_8480_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8481_fob_usd",
+    "indicator": "import_8481_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8482_fob_usd",
+    "indicator": "import_8482_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8483_fob_usd",
+    "indicator": "import_8483_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8484_fob_usd",
+    "indicator": "import_8484_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8485_fob_usd",
+    "indicator": "import_8485_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8486_fob_usd",
+    "indicator": "import_8486_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "import_8487_fob_usd",
+    "indicator": "import_8487_fob_usd",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "US$ FOB"
+  },
+  {
+    "column": "export_2601_kg",
+    "indicator": "export_2601_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2602_kg",
+    "indicator": "export_2602_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2603_kg",
+    "indicator": "export_2603_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2604_kg",
+    "indicator": "export_2604_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2605_kg",
+    "indicator": "export_2605_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2606_kg",
+    "indicator": "export_2606_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2607_kg",
+    "indicator": "export_2607_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2608_kg",
+    "indicator": "export_2608_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2609_kg",
+    "indicator": "export_2609_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2610_kg",
+    "indicator": "export_2610_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2611_kg",
+    "indicator": "export_2611_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2613_kg",
+    "indicator": "export_2613_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2614_kg",
+    "indicator": "export_2614_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2615_kg",
+    "indicator": "export_2615_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2616_kg",
+    "indicator": "export_2616_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2617_kg",
+    "indicator": "export_2617_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2618_kg",
+    "indicator": "export_2618_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2619_kg",
+    "indicator": "export_2619_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2620_kg",
+    "indicator": "export_2620_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2621_kg",
+    "indicator": "export_2621_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2701_kg",
+    "indicator": "export_2701_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2702_kg",
+    "indicator": "export_2702_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2703_kg",
+    "indicator": "export_2703_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2704_kg",
+    "indicator": "export_2704_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2705_kg",
+    "indicator": "export_2705_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2706_kg",
+    "indicator": "export_2706_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2707_kg",
+    "indicator": "export_2707_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2708_kg",
+    "indicator": "export_2708_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2709_kg",
+    "indicator": "export_2709_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2710_kg",
+    "indicator": "export_2710_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2711_kg",
+    "indicator": "export_2711_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2712_kg",
+    "indicator": "export_2712_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2713_kg",
+    "indicator": "export_2713_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2714_kg",
+    "indicator": "export_2714_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2715_kg",
+    "indicator": "export_2715_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_2716_kg",
+    "indicator": "export_2716_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7201_kg",
+    "indicator": "export_7201_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7202_kg",
+    "indicator": "export_7202_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7203_kg",
+    "indicator": "export_7203_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7204_kg",
+    "indicator": "export_7204_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7205_kg",
+    "indicator": "export_7205_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7206_kg",
+    "indicator": "export_7206_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7207_kg",
+    "indicator": "export_7207_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7208_kg",
+    "indicator": "export_7208_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7209_kg",
+    "indicator": "export_7209_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7210_kg",
+    "indicator": "export_7210_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7211_kg",
+    "indicator": "export_7211_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7212_kg",
+    "indicator": "export_7212_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7213_kg",
+    "indicator": "export_7213_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7214_kg",
+    "indicator": "export_7214_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7215_kg",
+    "indicator": "export_7215_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7216_kg",
+    "indicator": "export_7216_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7217_kg",
+    "indicator": "export_7217_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7218_kg",
+    "indicator": "export_7218_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7219_kg",
+    "indicator": "export_7219_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7220_kg",
+    "indicator": "export_7220_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7221_kg",
+    "indicator": "export_7221_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7222_kg",
+    "indicator": "export_7222_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7223_kg",
+    "indicator": "export_7223_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7224_kg",
+    "indicator": "export_7224_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7225_kg",
+    "indicator": "export_7225_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7226_kg",
+    "indicator": "export_7226_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7227_kg",
+    "indicator": "export_7227_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7228_kg",
+    "indicator": "export_7228_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_7229_kg",
+    "indicator": "export_7229_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8401_kg",
+    "indicator": "export_8401_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8402_kg",
+    "indicator": "export_8402_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8403_kg",
+    "indicator": "export_8403_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8404_kg",
+    "indicator": "export_8404_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8405_kg",
+    "indicator": "export_8405_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8406_kg",
+    "indicator": "export_8406_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8407_kg",
+    "indicator": "export_8407_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8408_kg",
+    "indicator": "export_8408_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8409_kg",
+    "indicator": "export_8409_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8410_kg",
+    "indicator": "export_8410_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8411_kg",
+    "indicator": "export_8411_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8412_kg",
+    "indicator": "export_8412_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8413_kg",
+    "indicator": "export_8413_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8414_kg",
+    "indicator": "export_8414_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8415_kg",
+    "indicator": "export_8415_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8416_kg",
+    "indicator": "export_8416_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8417_kg",
+    "indicator": "export_8417_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8418_kg",
+    "indicator": "export_8418_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8419_kg",
+    "indicator": "export_8419_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8420_kg",
+    "indicator": "export_8420_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8421_kg",
+    "indicator": "export_8421_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8422_kg",
+    "indicator": "export_8422_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8423_kg",
+    "indicator": "export_8423_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8424_kg",
+    "indicator": "export_8424_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8425_kg",
+    "indicator": "export_8425_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8426_kg",
+    "indicator": "export_8426_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8427_kg",
+    "indicator": "export_8427_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8428_kg",
+    "indicator": "export_8428_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8429_kg",
+    "indicator": "export_8429_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8430_kg",
+    "indicator": "export_8430_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8431_kg",
+    "indicator": "export_8431_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8432_kg",
+    "indicator": "export_8432_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8433_kg",
+    "indicator": "export_8433_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8434_kg",
+    "indicator": "export_8434_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8435_kg",
+    "indicator": "export_8435_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8436_kg",
+    "indicator": "export_8436_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8437_kg",
+    "indicator": "export_8437_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8438_kg",
+    "indicator": "export_8438_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8439_kg",
+    "indicator": "export_8439_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8440_kg",
+    "indicator": "export_8440_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8441_kg",
+    "indicator": "export_8441_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8442_kg",
+    "indicator": "export_8442_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8443_kg",
+    "indicator": "export_8443_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8444_kg",
+    "indicator": "export_8444_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8445_kg",
+    "indicator": "export_8445_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8446_kg",
+    "indicator": "export_8446_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8447_kg",
+    "indicator": "export_8447_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8448_kg",
+    "indicator": "export_8448_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8449_kg",
+    "indicator": "export_8449_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8450_kg",
+    "indicator": "export_8450_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8451_kg",
+    "indicator": "export_8451_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8452_kg",
+    "indicator": "export_8452_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8453_kg",
+    "indicator": "export_8453_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8454_kg",
+    "indicator": "export_8454_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8455_kg",
+    "indicator": "export_8455_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8456_kg",
+    "indicator": "export_8456_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8457_kg",
+    "indicator": "export_8457_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8458_kg",
+    "indicator": "export_8458_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8459_kg",
+    "indicator": "export_8459_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8460_kg",
+    "indicator": "export_8460_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8461_kg",
+    "indicator": "export_8461_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8462_kg",
+    "indicator": "export_8462_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8463_kg",
+    "indicator": "export_8463_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8464_kg",
+    "indicator": "export_8464_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8465_kg",
+    "indicator": "export_8465_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8466_kg",
+    "indicator": "export_8466_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8467_kg",
+    "indicator": "export_8467_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8468_kg",
+    "indicator": "export_8468_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8469_kg",
+    "indicator": "export_8469_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8470_kg",
+    "indicator": "export_8470_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8471_kg",
+    "indicator": "export_8471_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8472_kg",
+    "indicator": "export_8472_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8473_kg",
+    "indicator": "export_8473_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8474_kg",
+    "indicator": "export_8474_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8475_kg",
+    "indicator": "export_8475_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8476_kg",
+    "indicator": "export_8476_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8477_kg",
+    "indicator": "export_8477_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8478_kg",
+    "indicator": "export_8478_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8479_kg",
+    "indicator": "export_8479_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8480_kg",
+    "indicator": "export_8480_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8481_kg",
+    "indicator": "export_8481_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8482_kg",
+    "indicator": "export_8482_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8483_kg",
+    "indicator": "export_8483_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8484_kg",
+    "indicator": "export_8484_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8485_kg",
+    "indicator": "export_8485_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8486_kg",
+    "indicator": "export_8486_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "export_8487_kg",
+    "indicator": "export_8487_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2601_kg",
+    "indicator": "import_2601_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2602_kg",
+    "indicator": "import_2602_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2603_kg",
+    "indicator": "import_2603_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2604_kg",
+    "indicator": "import_2604_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2605_kg",
+    "indicator": "import_2605_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2606_kg",
+    "indicator": "import_2606_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2607_kg",
+    "indicator": "import_2607_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2608_kg",
+    "indicator": "import_2608_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2609_kg",
+    "indicator": "import_2609_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2610_kg",
+    "indicator": "import_2610_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2611_kg",
+    "indicator": "import_2611_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2612_kg",
+    "indicator": "import_2612_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2613_kg",
+    "indicator": "import_2613_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2614_kg",
+    "indicator": "import_2614_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2615_kg",
+    "indicator": "import_2615_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2616_kg",
+    "indicator": "import_2616_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2617_kg",
+    "indicator": "import_2617_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2618_kg",
+    "indicator": "import_2618_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2619_kg",
+    "indicator": "import_2619_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2620_kg",
+    "indicator": "import_2620_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2621_kg",
+    "indicator": "import_2621_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2701_kg",
+    "indicator": "import_2701_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2702_kg",
+    "indicator": "import_2702_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2703_kg",
+    "indicator": "import_2703_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2704_kg",
+    "indicator": "import_2704_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2705_kg",
+    "indicator": "import_2705_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2706_kg",
+    "indicator": "import_2706_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2707_kg",
+    "indicator": "import_2707_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2708_kg",
+    "indicator": "import_2708_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2709_kg",
+    "indicator": "import_2709_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2710_kg",
+    "indicator": "import_2710_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2711_kg",
+    "indicator": "import_2711_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2712_kg",
+    "indicator": "import_2712_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2713_kg",
+    "indicator": "import_2713_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2714_kg",
+    "indicator": "import_2714_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2715_kg",
+    "indicator": "import_2715_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_2716_kg",
+    "indicator": "import_2716_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7201_kg",
+    "indicator": "import_7201_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7202_kg",
+    "indicator": "import_7202_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7203_kg",
+    "indicator": "import_7203_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7204_kg",
+    "indicator": "import_7204_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7205_kg",
+    "indicator": "import_7205_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7206_kg",
+    "indicator": "import_7206_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7207_kg",
+    "indicator": "import_7207_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7208_kg",
+    "indicator": "import_7208_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7209_kg",
+    "indicator": "import_7209_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7210_kg",
+    "indicator": "import_7210_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7211_kg",
+    "indicator": "import_7211_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7212_kg",
+    "indicator": "import_7212_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7213_kg",
+    "indicator": "import_7213_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7214_kg",
+    "indicator": "import_7214_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7215_kg",
+    "indicator": "import_7215_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7216_kg",
+    "indicator": "import_7216_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7217_kg",
+    "indicator": "import_7217_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7218_kg",
+    "indicator": "import_7218_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7219_kg",
+    "indicator": "import_7219_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7220_kg",
+    "indicator": "import_7220_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7221_kg",
+    "indicator": "import_7221_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7222_kg",
+    "indicator": "import_7222_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7223_kg",
+    "indicator": "import_7223_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7224_kg",
+    "indicator": "import_7224_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7225_kg",
+    "indicator": "import_7225_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7226_kg",
+    "indicator": "import_7226_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7227_kg",
+    "indicator": "import_7227_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7228_kg",
+    "indicator": "import_7228_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_7229_kg",
+    "indicator": "import_7229_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8401_kg",
+    "indicator": "import_8401_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8402_kg",
+    "indicator": "import_8402_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8403_kg",
+    "indicator": "import_8403_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8404_kg",
+    "indicator": "import_8404_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8405_kg",
+    "indicator": "import_8405_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8406_kg",
+    "indicator": "import_8406_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8407_kg",
+    "indicator": "import_8407_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8408_kg",
+    "indicator": "import_8408_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8409_kg",
+    "indicator": "import_8409_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8410_kg",
+    "indicator": "import_8410_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8411_kg",
+    "indicator": "import_8411_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8412_kg",
+    "indicator": "import_8412_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8413_kg",
+    "indicator": "import_8413_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8414_kg",
+    "indicator": "import_8414_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8415_kg",
+    "indicator": "import_8415_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8416_kg",
+    "indicator": "import_8416_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8417_kg",
+    "indicator": "import_8417_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8418_kg",
+    "indicator": "import_8418_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8419_kg",
+    "indicator": "import_8419_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8420_kg",
+    "indicator": "import_8420_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8421_kg",
+    "indicator": "import_8421_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8422_kg",
+    "indicator": "import_8422_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8423_kg",
+    "indicator": "import_8423_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8424_kg",
+    "indicator": "import_8424_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8425_kg",
+    "indicator": "import_8425_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8426_kg",
+    "indicator": "import_8426_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8427_kg",
+    "indicator": "import_8427_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8428_kg",
+    "indicator": "import_8428_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8429_kg",
+    "indicator": "import_8429_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8430_kg",
+    "indicator": "import_8430_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8431_kg",
+    "indicator": "import_8431_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8432_kg",
+    "indicator": "import_8432_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8433_kg",
+    "indicator": "import_8433_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8434_kg",
+    "indicator": "import_8434_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8435_kg",
+    "indicator": "import_8435_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8436_kg",
+    "indicator": "import_8436_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8437_kg",
+    "indicator": "import_8437_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8438_kg",
+    "indicator": "import_8438_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8439_kg",
+    "indicator": "import_8439_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8440_kg",
+    "indicator": "import_8440_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8441_kg",
+    "indicator": "import_8441_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8442_kg",
+    "indicator": "import_8442_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8443_kg",
+    "indicator": "import_8443_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8444_kg",
+    "indicator": "import_8444_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8445_kg",
+    "indicator": "import_8445_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8446_kg",
+    "indicator": "import_8446_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8447_kg",
+    "indicator": "import_8447_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8448_kg",
+    "indicator": "import_8448_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8449_kg",
+    "indicator": "import_8449_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8450_kg",
+    "indicator": "import_8450_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8451_kg",
+    "indicator": "import_8451_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8452_kg",
+    "indicator": "import_8452_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8453_kg",
+    "indicator": "import_8453_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8454_kg",
+    "indicator": "import_8454_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8455_kg",
+    "indicator": "import_8455_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8456_kg",
+    "indicator": "import_8456_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8457_kg",
+    "indicator": "import_8457_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8458_kg",
+    "indicator": "import_8458_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8459_kg",
+    "indicator": "import_8459_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8460_kg",
+    "indicator": "import_8460_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8461_kg",
+    "indicator": "import_8461_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8462_kg",
+    "indicator": "import_8462_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8463_kg",
+    "indicator": "import_8463_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8464_kg",
+    "indicator": "import_8464_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8465_kg",
+    "indicator": "import_8465_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8466_kg",
+    "indicator": "import_8466_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8467_kg",
+    "indicator": "import_8467_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8468_kg",
+    "indicator": "import_8468_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8469_kg",
+    "indicator": "import_8469_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8470_kg",
+    "indicator": "import_8470_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8471_kg",
+    "indicator": "import_8471_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8472_kg",
+    "indicator": "import_8472_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8473_kg",
+    "indicator": "import_8473_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8474_kg",
+    "indicator": "import_8474_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8475_kg",
+    "indicator": "import_8475_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8476_kg",
+    "indicator": "import_8476_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8477_kg",
+    "indicator": "import_8477_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8478_kg",
+    "indicator": "import_8478_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8479_kg",
+    "indicator": "import_8479_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8480_kg",
+    "indicator": "import_8480_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8481_kg",
+    "indicator": "import_8481_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8482_kg",
+    "indicator": "import_8482_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8483_kg",
+    "indicator": "import_8483_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8484_kg",
+    "indicator": "import_8484_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8485_kg",
+    "indicator": "import_8485_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8486_kg",
+    "indicator": "import_8486_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  },
+  {
+    "column": "import_8487_kg",
+    "indicator": "import_8487_kg",
+    "description": "Brazilian trade data: monthly_by_sh4",
+    "source": "MDIC - ComexStat (bulk CSV)",
+    "frequency": "monthly",
+    "unit": "kg"
+  }
+]

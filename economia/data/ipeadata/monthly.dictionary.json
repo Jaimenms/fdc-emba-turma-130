@@ -1,0 +1,101 @@
+[
+  {
+    "column": "preco_petroleo_mensal",
+    "indicator": "Preço do petróleo (cotação internacional, mensal)",
+    "series_code": "IFS12_PETROLEUM12",
+    "description": "Commodities - petróleo - cotação internacional",
+    "source": "IMF/IFS via IPEADATA",
+    "frequency": "monthly",
+    "unit": "US$/barril"
+  },
+  {
+    "column": "producao_aco_bruto",
+    "indicator": "Produção de aço bruto",
+    "series_code": "IBSIE12_QSCAB12",
+    "description": "Transformação mineral - aço bruto - produção mensal",
+    "source": "IABr via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Mil toneladas"
+  },
+  {
+    "column": "producao_ferro_gusa",
+    "indicator": "Produção de ferro-gusa",
+    "series_code": "IBSIE12_QSCFG12",
+    "description": "Transformação mineral - ferro-gusa - produção mensal",
+    "source": "IABr via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Mil toneladas"
+  },
+  {
+    "column": "producao_laminados",
+    "indicator": "Produção de laminados",
+    "series_code": "IBSIE12_QSCL12",
+    "description": "Transformação mineral - laminados - produção mensal",
+    "source": "IABr via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Mil toneladas"
+  },
+  {
+    "column": "export_minerais_metalicos_fob",
+    "indicator": "Exportações - Minerais metálicos (FOB)",
+    "series_code": "FUNCEX_XVEMM2N",
+    "description": "Exportações brasileiras de extração de minerais metálicos (FOB)",
+    "source": "FUNCEX via IPEADATA",
+    "frequency": "monthly",
+    "unit": "US$ milhões"
+  },
+  {
+    "column": "export_minerais_metalicos_quantum",
+    "indicator": "Exportações - Minerais metálicos (quantum)",
+    "series_code": "FUNCEX12_XQEMM2N12",
+    "description": "Exportações - extração de minerais metálicos - índice de quantum (média 2018=100)",
+    "source": "FUNCEX via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Índice (média 2018=100)"
+  },
+  {
+    "column": "export_minerais_metalicos_preco",
+    "indicator": "Exportações - Minerais metálicos (preço)",
+    "series_code": "FUNCEX12_XPEMM2N12",
+    "description": "Exportações - extração de minerais metálicos - índice de preços (média 2018=100)",
+    "source": "FUNCEX via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Índice (média 2018=100)"
+  },
+  {
+    "column": "export_metalurgia_fob",
+    "indicator": "Exportações - Metalurgia (FOB)",
+    "series_code": "FUNCEX12_XVMETBAS2N12",
+    "description": "Exportações brasileiras de metalurgia (FOB)",
+    "source": "FUNCEX via IPEADATA",
+    "frequency": "monthly",
+    "unit": "US$ milhões"
+  },
+  {
+    "column": "utilizacao_capacidade_industrial",
+    "indicator": "Utilização da capacidade instalada - Indústria",
+    "series_code": "CNI12_NUCAP12",
+    "description": "Indicadores Industriais CNI - utilização da capacidade instalada (média 2006=100)",
+    "source": "CNI via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Índice (média 2006=100)"
+  },
+  {
+    "column": "emprego_industrial",
+    "indicator": "Pessoal empregado - Indústria",
+    "series_code": "CNI12_PEEMP12",
+    "description": "Indicadores Industriais CNI - pessoal empregado na indústria (média 2006=100)",
+    "source": "CNI via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Índice (média 2006=100)"
+  },
+  {
+    "column": "faturamento_real_industrial",
+    "indicator": "Faturamento real - Indústria",
+    "series_code": "CNI12_VENREA12",
+    "description": "Indicadores Industriais CNI - faturamento real da indústria (média 2006=100)",
+    "source": "CNI via IPEADATA",
+    "frequency": "monthly",
+    "unit": "Índice (média 2006=100)"
+  }
+]

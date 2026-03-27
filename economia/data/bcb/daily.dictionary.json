@@ -1,0 +1,38 @@
+[
+  {
+    "column": "selic_meta",
+    "indicator": "Taxa SELIC - Meta",
+    "series_code": 432,
+    "description": "Taxa básica de juros definida pelo COPOM",
+    "source": "Banco Central do Brasil",
+    "frequency": "daily",
+    "unit": "% a.a."
+  },
+  {
+    "column": "selic_diaria",
+    "indicator": "Taxa SELIC - Diária",
+    "series_code": 11,
+    "description": "Taxa SELIC efetiva diária (anualizada)",
+    "source": "Banco Central do Brasil",
+    "frequency": "daily",
+    "unit": "% a.a."
+  },
+  {
+    "column": "cambio_venda",
+    "indicator": "Câmbio USD/BRL - Venda",
+    "series_code": 1,
+    "description": "Taxa de câmbio comercial dólar americano (venda)",
+    "source": "Banco Central do Brasil",
+    "frequency": "daily",
+    "unit": "BRL/USD"
+  },
+  {
+    "column": "cambio_compra",
+    "indicator": "Câmbio USD/BRL - Compra",
+    "series_code": 10813,
+    "description": "Taxa de câmbio comercial dólar americano (compra)",
+    "source": "Banco Central do Brasil",
+    "frequency": "daily",
+    "unit": "BRL/USD"
+  }
+]
