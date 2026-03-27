@@ -1,0 +1,12 @@
+.claude
+.venv
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+coverage_html/
+coverage.xml
+.coverage
+!coverage.svg
+CLAUDE.md
+*.egg-info

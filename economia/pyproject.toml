@@ -1,0 +1,38 @@
+[project]
+name = "economia"
+version = "0.1.0"
+description = "Macroeconomics and microeconomics data ingestion for FDC EMBA Turma 13"
+requires-python = ">=3.10"
+dependencies = [
+    "sidrapy>=0.1.4",
+    "pandas>=2.0.0",
+    "requests>=2.28.0",
+    "investpy>=1.0.8",
+    "setuptools<82",
+]
+
+[project.optional-dependencies]
+notebooks = [
+    "jupyter>=1.0",
+    "jupyterlab>=4.0",
+    "matplotlib>=3.7",
+    "seaborn>=0.12",
+    "ipykernel>=6.0",
+]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["ingestion*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
