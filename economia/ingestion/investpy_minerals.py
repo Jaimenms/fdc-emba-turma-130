@@ -20,9 +20,10 @@ def fetch_commodity(key, cfg):
     try:
         if "search_term" in cfg:
             # Use search_quotes API for commodities not in the standard list
+            product = cfg.get("search_product", "commodities")
             quote = investpy.search_quotes(
                 text=cfg["search_term"],
-                products=["commodities"],
+                products=[product],
                 n_results=1,
             )
             df = quote.retrieve_historical_data(

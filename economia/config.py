@@ -665,4 +665,14 @@ INVESTPY_COMMODITIES = {
         "from_date": "01/01/2010",
         "to_date": "27/03/2026",
     },
+    "lithium_lit": {
+        "search_term": "Global X Lithium",
+        "search_product": "etfs",
+        "name": "Global X Lithium & Battery Tech ETF (LIT)",
+        "description": "LIT ETF — proxy for lithium prices, tracks lithium miners and battery producers (NYSE)",
+        "source": "Investing.com via investpy (search)",
+        "unit": "US$",
+        "from_date": "01/01/2010",
+        "to_date": "29/03/2026",
+    },
 }
